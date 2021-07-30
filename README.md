@@ -1,6 +1,5 @@
-## PyBer_Analysis
+# PyBer_Analysis
 Module 5
-
 ## Overview of the Analysis
 The purpose of the project was to analyze data for a ridesharing company called PyBer to calculate metrics related to the total weekly fares for each city it operates. Data sets with ride &city data were sourced to calculate the following metrics:
   - Total rides
@@ -28,6 +27,3 @@ Data shows this city type as being middle of the pack. Suburban rides and fares 
 
 ### Urban Cities: 
 This city type has the highest in rides and fares.  It is the highest performing of all cities and requires continued investment and focus as it represents a lion share of the activity and fares.
-
-Other outputs form the challenge:
-
